@@ -1,0 +1,11 @@
+{
+  "name": "sylphie-api",
+  "version": "1.0.1",
+  "description": "The package for connection to Sylphie's API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arusu",
+  "license": "MIT"
+}
