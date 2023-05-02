@@ -1,11 +1,22 @@
 {
   "name": "sylphie-api",
-  "version": "1.0.1",
+  "version": "1.2.1",
   "description": "The package for connection to Sylphie's API.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Arusu",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arusu12/node-sylphie-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Arusu12/node-sylphie-api/issues"
+  },
+  "homepage": "https://github.com/Arusu12/node-sylphie-api#readme"
 }
